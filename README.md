@@ -58,8 +58,4 @@ The Job Application Tracker is a web application designed to help users manage a
 4. **Open your browser and navigate to:**
     http://localhost:3000
 
-## Conclusion
-The Job Application Tracker is a comprehensive tool for managing job applications, providing features for adding, editing, deleting, searching, filtering, sorting, and paginating job applications. It also includes a summary section to give users an overview of their job application statuses.
 
-****
-This `README.md` file provides an overview of the project, its features, technologies used, project structure, routes, and instructions on how to run the application, without including the code excerpts section.
