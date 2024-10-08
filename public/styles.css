@@ -1,0 +1,11 @@
+.status-accepted {
+    color: green;
+}
+
+.status-in-progress {
+    color: orange;
+}
+
+.status-rejected {
+    color: red;
+}
